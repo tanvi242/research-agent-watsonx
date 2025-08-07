@@ -16,9 +16,9 @@ This project demonstrates the use of IBM Watsonx.ai and Granite Foundation Model
 
 ## 👩‍💻 Author
 Tanvi Jitendra Bhosale – Regal College of Technology  
-Capstone Project 2025 – Department of Computer Science
+RESEARCH AGENT PROJECT – Department of BCA
 
 ## 🔗 Live Agent
-Deployed in IBM Watsonx.ai (sandbox) – Preview available via screenshots.
+Deployed in IBM Watsonx.ai – Preview available via screenshots.
 
 
