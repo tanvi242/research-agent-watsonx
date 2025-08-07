@@ -12,6 +12,7 @@ This project demonstrates the use of IBM Watsonx.ai and Granite Foundation Model
 - RESEARCH AGENT.docx – Knowledge base
 - Research Agent Project.pdf – Final presentation
 - Screenshots – Agent interaction output
+- RESEARCH AGENT JUPYTER NOTEBOOK
 
 ## 👩‍💻 Author
 Tanvi Jitendra Bhosale – Regal College of Technology  
